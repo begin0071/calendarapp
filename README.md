@@ -3,11 +3,12 @@ A simple calendar application that allows a user to save events for each hour of
 ## Details  
 Assignment #5  
 Due: 1/12/2023  
-Repo: https://github.com/begin0071/quizgame 
-Deployed: https://begin0071.github.io/quizgame/ 
+Repo: https://github.com/begin0071/calendarapp
+Deployed: https://begin0071.github.io/calendarapp/ 
 
-<img src="/images/gamebegins.png">  
-<img src="/images/ingame.png">   
+<img src="./calendarapp.png">  
+
+ 
  
 
 ## User Story
